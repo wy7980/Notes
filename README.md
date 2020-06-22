@@ -6,8 +6,8 @@
 
 ### [002.nginx](/projects/002.nginx.md)
 
-### [003.network](/projects/001.network.md)
+### [003.network](/projects/003.network.md)
 
 ## 0x02.researches
 
-### [001.sysbolic execution](/researches/001.sysbolic_execution.md)
+### [001.sysbolic execution](/researches/001.symbolic_execution.md)
