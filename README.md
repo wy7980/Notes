@@ -2,6 +2,8 @@
 
 ## 0x01.projects
 
+### [000.computer](/projects/000.computer.md)
+
 ### [001.golang](/projects/001.golang.md)
 
 ### [002.nginx](/projects/002.nginx.md)
