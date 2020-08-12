@@ -22,4 +22,4 @@
 ---
 end notes
 
-1.[生成github TOC](https://toc.codepie.fun/)
+1.[TOC使用VScode插件生成](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
