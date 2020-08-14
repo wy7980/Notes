@@ -1,6 +1,6 @@
 # Notes
 
-## 0x01.projects
+## :zap: projects
 
 ### [000.computer](/projects/000.computer.md)
 
@@ -14,12 +14,12 @@
 
 ### [005.compiler](/projects/005.compiler.md)
 
-## 0x02.researches
+## :mortar_board: researches
 
 ### [001.sysbolic execution](/researches/001.symbolic_execution.md)
 
 
 ---
-end notes
+:pencil: end notes
 
 1.[TOC使用VScode插件生成](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
