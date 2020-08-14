@@ -23,3 +23,5 @@
 :pencil: end notes
 
 1.[TOC使用VScode插件生成](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+2.[markdown数学公式显示插件: mathjax-plugin-for-github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
